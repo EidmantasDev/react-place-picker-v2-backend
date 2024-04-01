@@ -1,6 +1,6 @@
 # React place picker website
 
-A place picker website v2 working with a backend
+A place picker website v2 working with a backend and creating a custom hook to fecth the data
 
 ## Run Locally
 
